@@ -29,7 +29,7 @@ function Intro() {
               className="bg-sky-800 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded-full"
             >
               <svg
-                className="w-5 h-5 fill-current"
+                className="w-10 h-8 fill-current"
                 role="img"
                 viewBox="0 0 256 256"
                 xmlns="http://www.w3.org/2000/svg"
@@ -49,7 +49,7 @@ function Intro() {
                 xmlnsXlink="http://www.w3.org/1999/xlink"
                 aria-hidden="true"
                 role="img"
-                className="w-5"
+                className="w-10"
                 preserveAspectRatio="xMidYMid meet"
                 viewBox="0 0 24 24"
               >
