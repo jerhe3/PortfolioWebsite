@@ -12,6 +12,7 @@ function Portfolio() {
             imgUrl={project.imgUrl}
             title={project.title}
             description={project.description}
+            awards={project.awards}
             stack={project.stack}
             link={project.link}
           />
