@@ -9,16 +9,16 @@ function Intro() {
       <img
         className="size-48 rounded-xl mb-3 md:mb-9 object-cover"
         src="assets/JerryPhoto.png"
-      ></img>
+        alt="Jerry He"
+      />
       <h1 className="text-4xl md:text-7xl dark:text-white mb-1 md:mb-3 font-bold ">
         Jerry He
       </h1>
-      <p className="text-base md:text-xl mbb-3 font-medium">
-        Aspiring Software Engineer, CS Student
+      <p className="text-base md:text-xl mb-3 font-medium">
+        Software Engineer @ Bloomberg
       </p>
       <p className="text-sm max-w-xl mb-6 font-bold">
-        Welcome to my page :&#41; <br></br> Pardon the dust. Still under
-        construction &#x1F6A7; &#x1F477;
+        Welcome to my page :&#41;
       </p>
       <div className="container max-w-screen-lg mx-auto">
         <div>
@@ -26,6 +26,8 @@ function Intro() {
             <a
               href="https://linkedin.com/in/jerryhefl"
               target="_blank"
+              rel="noopener noreferrer"
+              aria-label="LinkedIn"
               className="bg-sky-800 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded-full"
             >
               <svg
@@ -42,6 +44,8 @@ function Intro() {
             <a
               href="https://github.com/jerhe3"
               target="_blank"
+              rel="noopener noreferrer"
+              aria-label="GitHub"
               className="bg-purple-900 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded-full"
             >
               <svg

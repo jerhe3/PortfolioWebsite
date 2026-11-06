@@ -1,33 +1,26 @@
 export default [
   {
-    title: "Portfolio Website",
-    imgUrl: "assets/PortfolioWebsite.png",
-    description: "Minimalist Portfolio Website (P.S. You're on it right now)",
-    stack: ["React", "Vite", "Tailwind"],
-    link: "https://github.com/jerhe3/PortfolioWebsite",
+    title: "SignHero",
+    imgUrl: "assets/SignHero.png",
+    description:
+      "Real-time ASL fingerspelling rhythm game. 1st Place Best Game Design and 2nd Place Overall at SwampHacks XI (out of 113 projects).",
+    stack: ["Next.js", "FastAPI", "PyTorch", "MediaPipe", "WebSockets"],
+    link: "https://devpost.com/software/signhero",
   },
   {
-    title: "ForestFolio",
-    imgUrl: "assets/ForestFolio.png",
+    title: "Emergent",
+    imgUrl: "assets/Emergent.png",
     description:
-      "CRUD Contact Manager Application. Developed as part of project for COP 4331. Led front-end development.",
-    stack: ["HTML", "CSS", "JavaScript", "Bootstrap", "PHP", "mySQL"],
-    link: "https://github.com/tmitchell1234/JJTLPContacts",
-  },
-  {
-    title: "PlanPilot",
-    imgUrl: "assets/PlanPilot.png",
-    description:
-      "Intelligent Scheduling Application. Developed with team of 4 at ShellHacks 2023. Led API and Authentication development.",
-    stack: ["Flutter", "Firebase", "Google Maps API", "Auth0", "OpenAI API"],
-    link: "https://devpost.com/software/planpilot",
+      "AI crisis simulation platform with 50 concurrent AI personas. 1st Place Overall at Knight Hacks VIII (out of 188 projects) and 1st Place at UCF's Innovation Tournament.",
+    stack: ["Next.js", "FastAPI", "Google Gemini", "Google ADK"],
+    link: "https://devpost.com/software/emergent-b2t1fl",
   },
   {
     title: "PocketTrade",
     imgUrl: "assets/PocketTrade.png",
     description:
-      "Peer-to-Peer Trading App. Developed with team of 4 at Hackabull. Led Flutter development.",
-    stack: ["Flutter", "Firebase", "Swift"],
+      "Peer-to-peer bartering app with masked SMS between users. 1st Place Most Creative Use of Twilio at HackaBull 2023.",
+    stack: ["Flutter", "Firebase", "Twilio API"],
     link: "https://devpost.com/software/pocket-trade",
   },
 ];
